@@ -1,1 +1,2 @@
 # Simple-calculator
+calculator.jpg
